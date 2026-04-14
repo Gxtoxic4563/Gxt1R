@@ -10,3 +10,9 @@ cache/
 downloads/
 __pycache__/
 *.session-journal 
+config.py
+.env
+*.session
+cookies.txt
+venv/
+__pycache__/

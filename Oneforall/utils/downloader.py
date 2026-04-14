@@ -1,7 +1,7 @@
 from os import path
 import yt_dlp
 
-ytdl = yt_dlp.YoutubeDL({
+ytdl = yt_dlp.YoutubeDL({"extractor_args": {"youtube": {"player_client": ["web_creator"], "player_skip": ["web_embedded_web_player"]}},
     "outtmpl": "downloads/%(id)s.%(ext)s",
     "format": "bestaudio/best",
     "geo_bypass": True,

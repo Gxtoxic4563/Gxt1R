@@ -14,7 +14,7 @@ API_ID = int(os.getenv("API_ID", "38116283"))
 API_HASH = os.getenv("API_HASH", "fb8638157056f21bdafc61e41e147f88")
 
 # Get your token from @BotFather on Telegram.
-BOT_TOKEN = os.getenv("BOT_TOKEN","")
+BOT_TOKEN = os.getenv("BOT_TOKEN","8448335567:AAEBuO4WZS2z1AMWZcwesmcd9pY4MFUoV6c")
 
 YOUTUBE_API_KEY = os.getenv("")
 # OpenAI Token
@@ -86,7 +86,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(os.getenv("TG_VIDEO_FILESIZE_LIMIT", 1073741824))
 
 
 # Get your pyrogram v2 session from @BRANDEDSTRINGSESSION_BOT on Telegram
-STRING1 = os.getenv("STRING_SESSION",  "")
+STRING1 = os.getenv("STRING_SESSION",  "BQGbOzoAIFiuJHWIqETIt5muzDow-dFOWz0TLu7vDZrt-y0V9_tSmVvllLPijbkCA9bCWk0cbMI4ErgpvhSF_cZiW8_I5gDfH5SPBgO2GG_1Z3OKG-Bpum13tX2DnXc0cFl6ggTXKcduyKSLoa_4ImYI61AYNxlunoFkZYOrJ-OLqIUObWDsqmQNuBpYIxrl4Imts4syi3uNR9wxW85_eT4p5CBk8520aWwte4TINVVrIVlOLQaKV3psLwydhTlSYMVUrGJiGtSIdYfTeTECqf-nbfLORTfTv5kAMaa8fXNLIskHUPV-faj_a3lZMBl9EoXEn96Es0Yi_gf73n7R3TGAEXeCLAAAAAGsmbxnAA")
 STRING2 = os.getenv("STRING_SESSION2", None)
 STRING3 = os.getenv("STRING_SESSION3", None)
 STRING4 = os.getenv("STRING_SESSION4", None)

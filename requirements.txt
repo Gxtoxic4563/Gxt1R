@@ -1,8 +1,8 @@
 telethon==1.33.1
+lyricsgenius==3.0.1
 aiofiles
 apscheduler
 aiohttp==3.9.3
-asyncio==3.4.3
 gTTS
 dnspython==2.3.0
 hachoir
@@ -34,9 +34,7 @@ youtube_search
 youtube-search-python
 googlesearch-python
 unidecode
-#git+https://github.com/joetats/youtube_search@master
-#git+https://github.com/alexmercerind/youtube-search-python@main
-https://github.com/KurimuzonAkuma/kurigram/archive/v2.1.23.zip
+git+https://github.com/KurimuzonAkuma/kurigram.git
 git+https://github.com/AsmSafone/SafoneAPI
 bing_image_downloader
 gpytranslate
